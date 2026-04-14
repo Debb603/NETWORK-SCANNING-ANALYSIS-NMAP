@@ -19,4 +19,4 @@ This project demonstrates basic network scanning and enumeration using Nmap. The
 ```bash
 nmap -sn 192.168.1.0/24
 identified active device on the network
-Found 5 hosts online
+Found 4 hosts online
