@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?><nmaprun args="nmap -sn 198.168.1.192/24" profile_name="" scanner="nmap" start="1776082471" startstr="Mon Apr 13 13:14:31 2026" version="7.99" xmloutputversion="1.04"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.99 ( https://nmap.org ) at 2026-04-13 13:14 +0100
-Nmap done: 256 IP addresses (0 hosts up) scanned in 207.74 seconds
-</output><runstats><finished time="1776082678" timestr="Mon Apr 13 13:17:58 2026"></finished><hosts up="0" down="256" total="256"></hosts></runstats></nmaprun>
