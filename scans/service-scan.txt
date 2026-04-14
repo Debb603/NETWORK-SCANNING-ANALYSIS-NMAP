@@ -1,0 +1,14 @@
+Nmap scan report for 192.168.1.1
+Host is up (0.0039s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE VERSION
+53/tcp  open  domain  dnsmasq 2.86
+80/tcp  open  rtsp
+443/tcp open  ssl/sip (SIP end point; Status: 501 Not Implemented)
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+(this may indicate a custom or uncommon service running on the target).
+
+MAC Address: 98:A9:42:D2:27:BC (Tozed Kangwei Tech)
+
+Service detection performed.
+Nmap done: 1 IP address (1 host up) scanned in 87.32 seconds
